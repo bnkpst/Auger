@@ -1,3 +1,13 @@
-[submodule "vendor/GLFW"]
-	path = vendor/GLFW
+[submodule "Auger/vendor/GLFW"]
+	path = Auger/vendor/GLFW
 	url = https://github.com/bnkpst/glfw.git
+[submodule "Auger/vendor/glm"]
+	path = Auger/vendor/glm
+	url = https://github.com/bnkpst/glm.git
+[submodule "Auger/vendor/spdlog"]
+	path = Auger/vendor/spdlog
+	url = https://github.com/bnkpst/spdlog.git
+[submodule "Auger/vendor/imgui"]
+	path = Auger/vendor/imgui
+	url = https://github.com/bnkpst/imgui.git
+	branch = docking
